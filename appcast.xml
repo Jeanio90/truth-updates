@@ -3,12 +3,12 @@
     <channel>
         <title>Truth</title>
         <item>
-            <title>20.0.0</title>
-            <pubDate>Sun, 15 Nov 2026 19:06:51 +0100</pubDate>
-            <sparkle:version>20.0.0</sparkle:version>
-            <sparkle:shortVersionString>20.0.0</sparkle:shortVersionString>
+            <title>21.0.0</title>
+            <pubDate>Sun, 15 Nov 2026 20:02:03 +0100</pubDate>
+            <sparkle:version>21.0.0</sparkle:version>
+            <sparkle:shortVersionString>21.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Jeanio90/truth-updates/main/Truth-20.0.0.zip" length="1911760" type="application/octet-stream" sparkle:edSignature="cjDspEDEBXk7lL2PgCvkytKTHjvb8PlUc4PlbyxM7IUyNow5PIThWOe1YCMDAUFvum5TUbR9SCbx6m5wf8yEBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/Jeanio90/truth-updates/main/Truth-21.0.0.zip" length="1913170" type="application/octet-stream" sparkle:edSignature="u2xV3ly0wxTjrnsGBJri1Xi72dNVZcxXvrLcweWroznFLwO2vInEAZhWk897gZDR84Eb5jNPgB6gMHE5R5eIBw=="/>
         </item>
     </channel>
 </rss>
